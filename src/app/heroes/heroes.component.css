@@ -1,0 +1,4 @@
+.list-heroes li:hover{
+    background-color: white;
+    font-weight: bold;
+}
